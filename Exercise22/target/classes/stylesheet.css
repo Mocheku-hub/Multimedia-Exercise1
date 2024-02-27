@@ -1,0 +1,51 @@
+.root {
+    -fx-font-family: 'JetBrains Mono';
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+    -fx-background-color: gray;
+}
+
+.usa-button {
+    -fx-background-color: red;
+    -fx-text-fill: white;
+}
+
+.usa-button:hover {
+    -fx-background-color: white;
+    -fx-text-fill: red;
+}
+
+.usa-button:pressed {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
+
+.france-button {
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
+
+.france-button:hover {
+    -fx-background-color: white;
+    -fx-text-fill: blue;
+}
+
+.france-button:pressed {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
+
+.japan-button {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+.japan-button:hover {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.japan-button:pressed {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+}
